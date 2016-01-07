@@ -16,3 +16,6 @@ $ npm run clean
 ```
 react-native start
 ```
+
+## Licence
+MIT
