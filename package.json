@@ -1,11 +1,18 @@
 {
   "name": "SimpleReactNative",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "react-native start",
     "clean": "cd node_modules; find . -name .babelrc | grep -v packager | xargs rm"
   },
+  "description": "Simple boilerplate without any fireworks which can be used as a good starting point for building react-native apps.",
+  "keywords": [
+    "redux",
+    "react-components",
+    "react-native",
+    "react-native-router",
+    "router"
+  ],
   "dependencies": {
     "react": "0.14.3",
     "react-native": "0.16.0",
